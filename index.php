@@ -10,32 +10,36 @@
 </head>
 <body>
     <header>
-        <div class="logo">Logomarca</div><!--logo-->
-        <nav class="desktop">
-            <ul>
-                <li><a href="">Home</a></li>
-                <li><a href="">Sobre</a></li>
-                <li><a href="">Serviços</a></li>
-                <li><a href="">Contato</a></li>
-            </ul>
-        </nav><!--desktop-->
+        <div class="center">
+            <div class="logo">Logomarca</div><!--logo-->
+            <nav class="desktop">
+                <ul>
+                    <li><a href="">Home</a></li>
+                    <li><a href="">Sobre</a></li>
+                    <li><a href="">Serviços</a></li>
+                    <li><a href="">Contato</a></li>
+                </ul>
+            </nav><!--desktop-->
 
-        <nav class="mobile">
-            <ul>
-                <li><a href="">Home</a></li>
-                <li><a href="">Sobre</a></li>
-                <li><a href="">Serviços</a></li>
-                <li><a href="">Contato</a></li>
-            </ul>
-        </nav><!--desktop-->
+            <nav class="mobile">
+                <ul>
+                    <li><a href="">Home</a></li>
+                    <li><a href="">Sobre</a></li>
+                    <li><a href="">Serviços</a></li>
+                    <li><a href="">Contato</a></li>
+                </ul>
+            </nav><!--desktop-->
+        </div><!--center-->
     </header>
 
     <section class="banner-principal">
-        <form>
-            <h2>Qual o seu melhor e-mail?</h2>
-            <input type="email" name="email" required />
-            <input type="submit" name="acao" value="Cadastrar!" />
-        </form>
+        <div class="center">
+            <form>
+                <h2>Qual o seu melhor e-mail?</h2>
+                <input type="email" name="email" required />
+                <input type="submit" name="acao" value="Cadastrar!" />
+            </form>
+        </div><!--center-->
     </section><!--banner-principal-->
 
     <section class="descricao-autor">
@@ -54,8 +58,53 @@
     <section class="especialidades">
         <h2 class="title">Especialidades</h2><!--title-->
         <div class="center">
+            <div class="box-especialidade">
+                <h3>icone1</h3>
+                <h3>CSS3</h3>
+                <p>Adipisicing exercitation ad sit laboris. Consectetur ipsum eu fugiat sunt esse exercitation velit et velit commodo nulla mollit. Lorem dolore labore duis pariatur nostrud labore deserunt reprehenderit ut tempor veniam magna occaecat cupidatat.</p>
+            </div><!--box-especialidade-->
 
-        </div><!--center
+            <div class="box-especialidade">
+                <h3>icone2</h3>
+                <h3>HTML5</h3>
+                <p>Adipisicing exercitation ad sit laboris. Consectetur ipsum eu fugiat sunt esse exercitation velit et velit commodo nulla mollit. Lorem dolore labore duis pariatur nostrud labore deserunt reprehenderit ut tempor veniam magna occaecat cupidatat.</p>
+            </div><!--box-especialidade-->
+
+            <div class="box-especialidade">
+                <h3>icone3</h3>
+                <h3>JavaScript</h3>
+                <p>Adipisicing exercitation ad sit laboris. Consectetur ipsum eu fugiat sunt esse exercitation velit et velit commodo nulla mollit. Lorem dolore labore duis pariatur nostrud labore deserunt reprehenderit ut tempor veniam magna occaecat cupidatat.</p>
+            </div><!--box-especialidade-->
+        </div><!--center-->
     </section><!--especialidades-->
+
+    <section class="extras">
+        <div class="center">
+            <div class="w50">
+                <h2 class="title">Depoimentos</h2>
+                <div class="depoimento-single">
+                    <p class="depoimento-descricao">Deserunt exercitation sit quis laboris irure pariatur. Pariatur proident do ea culpa ex in et amet. Pariatur irure cupidatat non pariatur. Minim pariatur quis consequat laboris commodo. Culpa duis nostrud irure et reprehenderit aliquip. Magna sit esse elit laborum est sit laboris. Qui officia sint id esse tempor aliquip tempor.</p>
+                    <p class="nome-autor">Lorem Ipsum</p>
+                </div><!--depoimento-single-->
+
+                <div class="depoimento-single">
+                    <p class="depoimento-descricao">Deserunt exercitation sit quis laboris irure pariatur. Pariatur proident do ea culpa ex in et amet. Pariatur irure cupidatat non pariatur. Minim pariatur quis consequat laboris commodo. Culpa duis nostrud irure et reprehenderit aliquip. Magna sit esse elit laborum est sit laboris. Qui officia sint id esse tempor aliquip tempor.</p>
+                    <p class="nome-autor">Lorem Ipsum</p>
+                </div><!--depoimento-single-->
+
+                <div class="depoimento-single">
+                    <p class="depoimento-descricao">Deserunt exercitation sit quis laboris irure pariatur. Pariatur proident do ea culpa ex in et amet. Pariatur irure cupidatat non pariatur. Minim pariatur quis consequat laboris commodo. Culpa duis nostrud irure et reprehenderit aliquip. Magna sit esse elit laborum est sit laboris. Qui officia sint id esse tempor aliquip tempor.</p>
+                    <p class="nome-autor">Lorem Ipsum</p>
+                </div><!--depoimento-single-->
+            </div><!--w50-->
+
+            <div class="w50">
+                <h2 class=""title>Serviços</h2>
+                <ul>
+                    
+                </ul>
+            </div><!--w50-->
+        </div><!--center-->
+    </section><!--extras-->
 </body>
 </html>

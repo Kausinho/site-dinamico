@@ -114,6 +114,7 @@
 
                         <li>Deserunt exercitation sit quis laboris irure pariatur. Pariatur proident do ea culpa ex in et amet. Pariatur irure cupidatat non pariatur. Minim pariatur quis consequat laboris commodo. Culpa duis nostrud irure et reprehenderit aliquip. Magna sit esse elit laborum est sit laboris. Qui officia sint id esse tempor aliquip tempor.</li>
                     </ul><!--servicos-->
+                </div>
             </div><!--w50-->
         </div><!--center-->
     </section><!--extras-->

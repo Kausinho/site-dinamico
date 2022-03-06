@@ -68,19 +68,19 @@
         <h2 class="title">Especialidades</h2><!--title-->
         <div class="center">
             <div class="box-especialidade">
-                <h3>icone1</h3>
+                <h3><i class="fa-brands fa-css3-alt"></i></h3>
                 <h3>CSS3</h3>
                 <p>Adipisicing exercitation ad sit laboris. Consectetur ipsum eu fugiat sunt esse exercitation velit et velit commodo nulla mollit. Lorem dolore labore duis pariatur nostrud labore deserunt reprehenderit ut tempor veniam magna occaecat cupidatat.</p>
             </div><!--box-especialidade-->
 
             <div class="box-especialidade">
-                <h3>icone2</h3>
+                <h3><i class="fa-brands fa-html5"></i></h3>
                 <h3>HTML5</h3>
                 <p>Adipisicing exercitation ad sit laboris. Consectetur ipsum eu fugiat sunt esse exercitation velit et velit commodo nulla mollit. Lorem dolore labore duis pariatur nostrud labore deserunt reprehenderit ut tempor veniam magna occaecat cupidatat.</p>
             </div><!--box-especialidade-->
 
             <div class="box-especialidade">
-                <h3>icone3</h3>
+                <h3><i class="fa-brands fa-js"></i></h3>
                 <h3>JavaScript</h3>
                 <p>Adipisicing exercitation ad sit laboris. Consectetur ipsum eu fugiat sunt esse exercitation velit et velit commodo nulla mollit. Lorem dolore labore duis pariatur nostrud labore deserunt reprehenderit ut tempor veniam magna occaecat cupidatat.</p>
             </div><!--box-especialidade-->

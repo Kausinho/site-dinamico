@@ -20,12 +20,12 @@
         <div class="center">
             <div class="logo">Logomarca</div><!--logo-->
             <nav class="desktop">
-                <ul>
-                    <li><a href="">Home</a></li>
-                    <li><a href="">Sobre</a></li>
-                    <li><a href="">Serviços</a></li>
-                    <li><a href="">Contato</a></li>
-                </ul>
+                    <ul>
+                        <li><a href="">Home</a></li>
+                        <li><a href="">Sobre</a></li>
+                        <li><a href="">Serviços</a></li>
+                        <li><a href="">Contato</a></li>
+                    </ul>
             </nav><!--desktop-->
 
             <nav class="mobile">

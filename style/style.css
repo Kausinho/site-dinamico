@@ -18,3 +18,45 @@ img{
     display: flex;
 }
 
+/*ESTILIZAÇÃO HEADER*/
+header{
+    background: #3D437A;
+    padding: 20px 0;
+}
+
+header .center{
+    justify-content: space-between;
+    align-items: center;
+}
+
+header .logo{
+    font-size: 23px;
+    text-transform: uppercase;
+    font-weight: 300;
+    color: white;
+}
+
+nav.desktop ul{
+    display: flex;
+    flex-direction: row;     
+}
+
+nav.desktop ul li{
+    font-weight: 300;
+    font-size: 15px;
+    padding: 0 30px;
+    list-style-type: none;
+    text-transform: uppercase;
+}
+
+nav.desktop ul li a{
+    text-decoration: none;
+    color: white;
+}
+
+.mobile{
+    display: none;
+}
+
+/****/
+

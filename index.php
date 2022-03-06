@@ -35,11 +35,13 @@
                     <li><a href="">Serviços</a></li>
                     <li><a href="">Contato</a></li>
                 </ul>
-            </nav><!--desktop-->
+            </nav><!--mobile-->
+            
         </div><!--center-->
     </header>
 
     <section class="banner-principal">
+        <div class="overlay"></div><!--overlay-->
         <div class="center">
             <form>
                 <h2>Qual o seu melhor e-mail?</h2>
@@ -51,14 +53,14 @@
 
     <section class="descricao-autor">
         <div class="center">
-            <div class="w50">
+            <div class="conteudo-descricao-autor">
                 <h2>Klaussio B. Carvalho</h2>
                 <p>Ad non ea sit esse quis laborum sint duis nulla consectetur do duis. Reprehenderit fugiat ex aute minim labore enim do laboris quis elit sunt do. Anim eu consectetur ipsum et deserunt. Irure dolor exercitation fugiat laboris aute consequat incididunt cillum non. Aute ea aute fugiat laboris dolore esse amet adipisicing cillum cupidatat. Proident laborum eu enim pariatur sunt eu cillum cillum culpa.Magna sit et laborum non mollit dolor id. Fugiat proident eiusmod sunt deserunt fugiat id quis ad reprehenderit. Voluptate magna duis fugiat labore ex dolor aute. Non ea ad consectetur adipisicing ex nostrud ex amet. Commodo sunt cupidatat reprehenderit commodo ea tempor in occaecat in pariatur est.</p>
                 <p>Ad non ea sit esse quis laborum sint duis nulla consectetur do duis. Reprehenderit fugiat ex aute minim labore enim do laboris quis elit sunt do. Anim eu consectetur ipsum et deserunt. Irure dolor exercitation fugiat laboris aute consequat incididunt cillum non. Aute ea aute fugiat laboris dolore esse amet adipisicing cillum cupidatat. Proident laborum eu enim pariatur sunt eu cillum cillum culpa.Magna sit et laborum non mollit dolor id. Fugiat proident eiusmod sunt deserunt fugiat id quis ad reprehenderit. Voluptate magna duis fugiat labore ex dolor aute. Non ea ad consectetur adipisicing ex nostrud ex amet. Commodo sunt cupidatat reprehenderit commodo ea tempor in occaecat in pariatur est.</p>
-            </div><!--w50-->
-            <div class="w50">
+            </div><!--conteudo-descricao-autor-->
+            <div class="imagem-autor">
                 <img src="images/avatar.jpg" />
-            </div><!--w50-->
+            </div><!--imagem-autor-->
         </div><!--center-->
     </section><!--descricao-autor-->
 

@@ -1,12 +1,18 @@
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
+    <title>Projeto 01</title>
+    <!--METAS DO SITE-->
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="keywords" content="palavras-chave do site"/>
     <meta name="description" content="Descrição do meu web site"/>
-    <title>Projeto 01</title>
+
+    <!--LINKS DO SITE-->
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&family=Righteous&family=Sarala:wght@400;700&display=swap" rel="stylesheet">
+    <link href="style/style.css" type="text/css" rel="stylesheet" />
+
 </head>
 <body>
     <header>

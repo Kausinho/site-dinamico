@@ -164,3 +164,17 @@ section.descricao-autor .center{
 
 /****/
 
+/*MEDIA SCREENS (RESPONSIVO)*/
+@media screen and (max-width:768px){
+    section.descricao-autor .center{
+        flex-direction: column;
+    }
+
+    .imagem-autor{
+        margin-top: 20px;
+    }
+}
+
+/******/
+
+

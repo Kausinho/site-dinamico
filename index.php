@@ -89,36 +89,32 @@
 
     <section class="extras">
         <div class="center">
-            <div class="w50">
-                <h2 class="title">Depoimentos</h2>
-                <div class="depoimento-single">
-                    <p class="depoimento-descricao">Deserunt exercitation sit quis laboris irure pariatur. Pariatur proident do ea culpa ex in et amet. Pariatur irure cupidatat non pariatur. Minim pariatur quis consequat laboris commodo. Culpa duis nostrud irure et reprehenderit aliquip. Magna sit esse elit laborum est sit laboris. Qui officia sint id esse tempor aliquip tempor.</p>
-                    <p class="nome-autor">Lorem Ipsum</p>
-                </div><!--depoimento-single-->
+            <h2 class="title">Depoimentos</h2>
+            <div class="depoimento-single">
+                <p class="depoimento-descricao">Deserunt exercitation sit quis laboris irure pariatur. Pariatur proident do ea culpa ex in et amet. Pariatur irure cupidatat non pariatur. Minim pariatur quis consequat laboris commodo. Culpa duis nostrud irure et reprehenderit aliquip. Magna sit esse elit laborum est sit laboris. Qui officia sint id esse tempor aliquip tempor.</p>
+                <p class="nome-autor">Lorem Ipsum</p>
+            </div><!--depoimento-single-->
 
-                <div class="depoimento-single">
-                    <p class="depoimento-descricao">Deserunt exercitation sit quis laboris irure pariatur. Pariatur proident do ea culpa ex in et amet. Pariatur irure cupidatat non pariatur. Minim pariatur quis consequat laboris commodo. Culpa duis nostrud irure et reprehenderit aliquip. Magna sit esse elit laborum est sit laboris. Qui officia sint id esse tempor aliquip tempor.</p>
-                    <p class="nome-autor">Lorem Ipsum</p>
-                </div><!--depoimento-single-->
+            <div class="depoimento-single">
+                <p class="depoimento-descricao">Deserunt exercitation sit quis laboris irure pariatur. Pariatur proident do ea culpa ex in et amet. Pariatur irure cupidatat non pariatur. Minim pariatur quis consequat laboris commodo. Culpa duis nostrud irure et reprehenderit aliquip. Magna sit esse elit laborum est sit laboris. Qui officia sint id esse tempor aliquip tempor.</p>
+                <p class="nome-autor">Lorem Ipsum</p>
+            </div><!--depoimento-single-->
 
-                <div class="depoimento-single">
-                    <p class="depoimento-descricao">Deserunt exercitation sit quis laboris irure pariatur. Pariatur proident do ea culpa ex in et amet. Pariatur irure cupidatat non pariatur. Minim pariatur quis consequat laboris commodo. Culpa duis nostrud irure et reprehenderit aliquip. Magna sit esse elit laborum est sit laboris. Qui officia sint id esse tempor aliquip tempor.</p>
-                    <p class="nome-autor">Lorem Ipsum</p>
-                </div><!--depoimento-single-->
-            </div><!--w50-->
+            <div class="depoimento-single">
+                <p class="depoimento-descricao">Deserunt exercitation sit quis laboris irure pariatur. Pariatur proident do ea culpa ex in et amet. Pariatur irure cupidatat non pariatur. Minim pariatur quis consequat laboris commodo. Culpa duis nostrud irure et reprehenderit aliquip. Magna sit esse elit laborum est sit laboris. Qui officia sint id esse tempor aliquip tempor.</p>
+                <p class="nome-autor">Lorem Ipsum</p>
+            </div><!--depoimento-single-->
 
-            <div class="w50">
-                <h2 class=""title>Serviços</h2>
-                <div class="servicos">
-                    <ul>
-                        <li>Deserunt exercitation sit quis laboris irure pariatur. Pariatur proident do ea culpa ex in et amet. Pariatur irure cupidatat non pariatur. Minim pariatur quis consequat laboris commodo. Culpa duis nostrud irure et reprehenderit aliquip. Magna sit esse elit laborum est sit laboris. Qui officia sint id esse tempor aliquip tempor.</li>
+            <h2 class=""title>Serviços</h2>
+            <div class="servicos">
+                <ul>
+                    <li>Deserunt exercitation sit quis laboris irure pariatur. Pariatur proident do ea culpa ex in et amet. Pariatur irure cupidatat non pariatur. Minim pariatur quis consequat laboris commodo. Culpa duis nostrud irure et reprehenderit aliquip. Magna sit esse elit laborum est sit laboris. Qui officia sint id esse tempor aliquip tempor.</li>
 
-                        <li>Deserunt exercitation sit quis laboris irure pariatur. Pariatur proident do ea culpa ex in et amet. Pariatur irure cupidatat non pariatur. Minim pariatur quis consequat laboris commodo. Culpa duis nostrud irure et reprehenderit aliquip. Magna sit esse elit laborum est sit laboris. Qui officia sint id esse tempor aliquip tempor.</li>
+                    <li>Deserunt exercitation sit quis laboris irure pariatur. Pariatur proident do ea culpa ex in et amet. Pariatur irure cupidatat non pariatur. Minim pariatur quis consequat laboris commodo. Culpa duis nostrud irure et reprehenderit aliquip. Magna sit esse elit laborum est sit laboris. Qui officia sint id esse tempor aliquip tempor.</li>
 
-                        <li>Deserunt exercitation sit quis laboris irure pariatur. Pariatur proident do ea culpa ex in et amet. Pariatur irure cupidatat non pariatur. Minim pariatur quis consequat laboris commodo. Culpa duis nostrud irure et reprehenderit aliquip. Magna sit esse elit laborum est sit laboris. Qui officia sint id esse tempor aliquip tempor.</li>
-                    </ul><!--servicos-->
-                </div>
-            </div><!--w50-->
+                    <li>Deserunt exercitation sit quis laboris irure pariatur. Pariatur proident do ea culpa ex in et amet. Pariatur irure cupidatat non pariatur. Minim pariatur quis consequat laboris commodo. Culpa duis nostrud irure et reprehenderit aliquip. Magna sit esse elit laborum est sit laboris. Qui officia sint id esse tempor aliquip tempor.</li>
+                </ul><!--servicos-->
+            </div>        
         </div><!--center-->
     </section><!--extras-->
 

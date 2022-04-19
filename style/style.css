@@ -168,10 +168,12 @@ section.descricao-autor .center{
 @media screen and (max-width:768px){
     section.descricao-autor .center{
         flex-direction: column;
+        width: 300px;
     }
 
-    .imagem-autor{
+    .imagem-autor img{
         margin-top: 20px;
+        width: 100%;
     }
 }
 
